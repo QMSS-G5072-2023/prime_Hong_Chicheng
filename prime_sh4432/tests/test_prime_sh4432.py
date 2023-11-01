@@ -1,5 +1,4 @@
-from prime_sh4432 import prime_sh4432
-from from src.prime_sh4432.is_prime import is_prime
+from prime_sh4432 import is_prime
 def test_is_prime():
     prime_numbers=[2,7,13,19]
     composite_numbers=[8,9,15]
